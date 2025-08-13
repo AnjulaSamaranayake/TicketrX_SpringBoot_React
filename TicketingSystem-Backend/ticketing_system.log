@@ -1,0 +1,8 @@
+Dec 10, 2024 6:22:22 PM com.Anjula.TicketingSystem.cli.Configloader loadConfig
+SEVERE: Error reading config file: config.json (The system cannot find the file specified)
+Dec 11, 2024 12:02:55 PM com.Anjula.TicketingSystem.cli.Configloader loadConfig
+SEVERE: Invalid JSON syntax in the config file: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 92 path $
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+Dec 11, 2024 12:03:30 PM com.Anjula.TicketingSystem.cli.Configloader loadConfig
+SEVERE: Invalid JSON syntax in the config file: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 92 path $
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json

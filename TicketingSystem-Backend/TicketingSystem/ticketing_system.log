@@ -1,0 +1,113 @@
+
+Dec 06, 2024 7:10:37 AM com.Anjula.TicketingSystem.cli.Main main
+INFO: Starting ticketing system simulation...
+Dec 06, 2024 7:10:37 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-3 Released Ticket ID = 3, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:37 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-1 Released Ticket ID = 1, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:37 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-2 Released Ticket ID = 2, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:37 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-4 Released Ticket ID = 4, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:37 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-4 bought Ticket ID = 1, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:37 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-1 bought Ticket ID = 3, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:37 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-3 bought Ticket ID = 2, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:37 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-2 bought Ticket ID = 4, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:38 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-3 Released Ticket ID = 5, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:38 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-2 Released Ticket ID = 6, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:38 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-4 bought Ticket ID = 5, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:38 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-4 Released Ticket ID = 7, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:38 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-1 bought Ticket ID = 6, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:38 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-3 bought Ticket ID = 7, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:38 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-1 Released Ticket ID = 8, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:38 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-2 bought Ticket ID = 8, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:39 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-3 Released Ticket ID = 9, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:39 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-2 Released Ticket ID = 10, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:39 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-4 Released Ticket ID = 11, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:39 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-4 bought Ticket ID = 9, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:39 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-1 Released Ticket ID = 12, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:39 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-3 bought Ticket ID = 12, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:39 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-2 bought Ticket ID = 10, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:39 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-1 bought Ticket ID = 11, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:40 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-2 Released Ticket ID = 13, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:40 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-4 Released Ticket ID = 14, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:40 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-3 Released Ticket ID = 15, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:40 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-4 bought Ticket ID = 13, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:40 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-1 Released Ticket ID = 16, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:40 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-1 bought Ticket ID = 15, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:40 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-3 bought Ticket ID = 14, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:40 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-2 bought Ticket ID = 16, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:41 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-2 Released Ticket ID = 17, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:41 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-4 Released Ticket ID = 18, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:41 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-3 Released Ticket ID = 19, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:41 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-4 bought Ticket ID = 17, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:41 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-1 bought Ticket ID = 18, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:41 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-1 Released Ticket ID = 20, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:41 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-2 bought Ticket ID = 19, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:41 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-3 bought Ticket ID = 20, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:42 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-2 Released Ticket ID = 22, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:42 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-4 Released Ticket ID = 21, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:42 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-1 bought Ticket ID = 22, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:42 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-4 bought Ticket ID = 21, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:42 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-3 Released Ticket ID = 24, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:42 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-1 Released Ticket ID = 23, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:42 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-3 bought Ticket ID = 24, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:42 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-2 bought Ticket ID = 23, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:43 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-2 Released Ticket ID = 25, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:43 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-4 Released Ticket ID = 26, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:43 AM com.Anjula.TicketingSystem.cli.Customer run
+INFO: Customer-4 bought Ticket ID = 25, Event Name = Spandhana, Ticket Price = 1000.0
+Dec 06, 2024 7:10:43 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-3 Tickets are not available
+Dec 06, 2024 7:10:43 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-1 Tickets are not available
+Dec 06, 2024 7:10:44 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-4 Tickets are not available
+Dec 06, 2024 7:10:44 AM com.Anjula.TicketingSystem.cli.Vendor run
+INFO: Vendor-2 Tickets are not available

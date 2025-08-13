@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.layout {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.configuration-form, .ticket-display, .control-panel, .log-display {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 8px;
+  flex: 1;
+  max-width: 300px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
