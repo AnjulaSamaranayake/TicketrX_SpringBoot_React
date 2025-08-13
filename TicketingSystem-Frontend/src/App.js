@@ -114,9 +114,9 @@ const App = () => {
       <main className="main-content">
         {activeTab === "about" && (
           <div className="about-section">
-            <h2>Welcome to TicketeX</h2>
+            <h2>Welcome to TicketrX</h2>
             <p className="intro-text">
-              TicketeX is an advanced simulation platform that models real-world ticket distribution systems. 
+              TicketrX is an advanced simulation platform that models real-world ticket distribution systems. 
               Configure the parameters to observe how tickets flow through the system under different conditions.
             </p>
             
@@ -220,7 +220,7 @@ const App = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>© {new Date().getFullYear()} TicketeX. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} TicketrX. All rights reserved.</p>
           <p>Developed by ANJU.</p>
         </div>
       </footer>
