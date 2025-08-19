@@ -91,7 +91,7 @@ const App = () => {
         <div className="header-content">
           <h1>
             <span className="logo-icon">🎫</span> 
-            <span className="logo-text">TicketeX</span>
+            <span className="logo-text">TicketrX</span>
             <span className="tagline">Ticket Distribution Simulation</span>
           </h1>
           <nav className="tabs">
